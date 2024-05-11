@@ -1,0 +1,33 @@
+{
+  "name": "git-linker",
+  "version": "0.1.0",
+  "bin": "./index.js",
+  "description": "A command line tool for batch deleting GitHub repositories.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github",
+    "repositories",
+    "git",
+    "gitee",
+    "github",
+    "batch",
+    "cli",
+    "repos"
+  ],
+  "author": "Immerse",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaolifeng0629/git-linker"
+  },
+  "bugs": {
+    "url": "https://github.com/yaolifeng0629/git-linker/issues"
+  },
+  "homepage": "https://github.com/yaolifeng0629/git-linker#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
