@@ -1,6 +1,8 @@
-# git-linker
+# [git-linker](https://github.com/yaolifeng0629/git-linker)
 
-git-linker — Tools to simplify Git repository multiplatform commit configuration
+**[git-linker](https://github.com/yaolifeng0629/git-linker)** —— A tool to simplify Git url configuration, multi-platform Git path configuration can be completed through simple input.
+
+![Usage](./screen-shot.png)
 
 # How to use?
 
@@ -40,7 +42,7 @@ The result as follows:
 
 ```bash
 [remote "origin"]
-	url = https://gitee.com/xxxx.git # Before git url
 	url = https://github.com/xxx.git # Newly added git url
+	url = https://gitee.com/xxxx.git # Before git url
 	fetch = +refs/heads/*:refs/remotes/origin/*
 ```
