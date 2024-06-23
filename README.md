@@ -2,7 +2,7 @@
 
 <p align="center">git-linker — A tool to simplify Git url configuration, multi-platform Git path configuration can be completed through simple input.</p>
 
-![Usage](./screen-shot.png)
+![Usage](./screen.png)
 
 ## How to use?
 

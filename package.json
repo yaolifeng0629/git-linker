@@ -1,6 +1,6 @@
 {
     "name": "git-linker",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "bin": {
         "git linker": "./index.js"
     },
