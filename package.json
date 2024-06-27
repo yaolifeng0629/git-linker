@@ -1,9 +1,7 @@
 {
     "name": "git-linker",
-    "version": "0.1.5",
-    "bin": {
-        "git linker": "./index.js"
-    },
+    "version": "0.1.6",
+    "bin": "./index.js",
     "description": "A command line tool for batch deleting GitHub repositories.",
     "main": "index.js",
     "scripts": {
